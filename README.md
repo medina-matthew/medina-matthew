@@ -6,7 +6,7 @@ I'm a **Computer Science** student at **California State University, Fullerton**
 - 🎓 **Graduation:** Spring 2026 with a BS in Computer Science (Cybersecurity concentration).
 - 🎯 **Future Goals:** Earn my **Master's** in Cybersecurity and pursue a **PhD** to further specialize in the field.
 - 🔐 **Cybersecurity Focus:** Content security, network security, ethical hacking, and systems protection.
-- 🌱 **Currently Learning:** Python, C++, and advanced cybersecurity techniques through hands-on labs and certifications.
+- 🌱 **Currently Working On:** A full-scale **Vulnerability Scanner** project to deepen my practical skills in cybersecurity and learn about industry-standard technologies.
 
 ## 🛠 Technologies & Tools
 - Languages: **Python**, **C++**, **Java**
